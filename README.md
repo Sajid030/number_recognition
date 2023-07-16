@@ -12,7 +12,7 @@ The project is implemented using Python and the Keras library.
 
 1. Data Preprocessing: The input images are reshaped into a 1D array and normalized to have pixel values in the range of 0-1. The target labels are one-hot encoded.
 
-2. Neural Network Model: A Sequential model is created with multiple layers, including Dense layers and Dropout layers to prevent overfitting.
+2. Neural Network Model: I created a Sequential model with multiple layers, including Dense layers and Dropout layers to prevent overfitting.
 
 3. Model Training: The model is compiled with an appropriate loss function and optimizer. It is then trained on the training dataset with a specified number of epochs and batch size.
 
@@ -36,5 +36,4 @@ The model achieves an accuracy of 98.12% on the testing dataset, showcasing its 
 
 ## Acknowledgements
 
-This project was completed as part of the internship program offered by Bharat Intern. We would like to thank Bharat Intern for providing us with the opportunity to work on this assignment.
-
+This project was completed by me alone as part of the internship program offered by Bharat Intern. I would like to thank Bharat Intern for providing me with the opportunity to work on this assignment.
